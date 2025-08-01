@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers>=4.38.0
+accelerate
+soundfile
+sentencepiece
+protobuf==3.20.3
+numpy<2.0.0
+torchvision
+gradio

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "evaluation_date": "2025-07-31T18:26:26.907982",
+    "processing_time": 172.630651,
+    "audio_duration": 23.89659863945578,
+    "model_version": "Qwen2.5-Omni",
+    "prompt_type": "professional_expert_evaluation",
+    "device": "cuda"
+  },
+  "transcription": "Good morning everyone, I'm Sarah and I'm really happy to be here today. I'd like to talk about my experience studying abroad and how it helped me improve my English. When I first arrived in the United States, I was quite nervous about speaking English with native speakers. However, I quickly realized that most people are very patient and understanding. I made many friends who helped me practice my English, and I also joined several conversation groups at my university. This experience taught me that immersion is one of the best ways to learn a language.",
+  "sentence_analysis": [
+    {
+      "index": 1,
+      "text": "Good morning everyone, I'm Sarah and I'm really happy to be here today. I'd like to talk about my experience studying abroad and how it helped me improve my English. When I first arrived in the United States, I was quite nervous about speaking English with native speakers. However, I quickly realized that most people are very patient and understanding. I made many friends who helped me practice my English, and I also joined several conversation groups at my university. This experience taught me that immersion is one of the best ways to learn a language.",
+      "word_count": 96,
+      "character_count": 559,
+      "complexity": "unknown"
+    }
+  ],
+  "sentences": [],
+  "fluency": {
+    "score": 8.5,
+    "comment": "语速1.8-2.0词/秒自然，停顿合理；但出现1次'um'，需减少填充词使用"
+  },
+  "pronunciation_accuracy": {
+    "score": 7.8,
+    "comment": "元音发音清晰，但'understanding'重音错放第一音节，建议加强单词重音练习"
+  },
+  "grammatical_accuracy": {
+    "score": 8.0,
+    "comment": "主谓一致正确，时态使用准确，但'was nervous'应为'was nervous about'，需注意介词搭配"
+  },
+  "lexical_resource": {
+    "score": 7.5,
+    "comment": "用词基本恰当，但'quite'重复使用，可替换为'very'或'extremely'，增加词汇多样性"
+  },
+  "coherence_cohesion": {
+    "score": 8.0,
+    "comment": "使用'however'、'and'等连接词，逻辑清晰；但'at my university'与前句衔接略突兀，建议加'which'或'where'"
+  },
+  "task_fulfillment": {
+    "score": 8.5,
+    "comment": "完整回应主题，涵盖3个核心信息点，无无关内容，信息充分且相关"
+  },
+  "overall_score": 8.2,
+  "overall_comment": "您的英语口语整体表现良好，流利度和内容完整性方面表现突出，能够清晰地表达自己的想法并保持良好的逻辑结构。语法使用基本准确，词汇选择恰当。主要优势在于表达的连贯性和内容的完整性，这表明您具备良好的语言组织能力。需要重点改进的方面包括发音的准确性，特别是单词重音的掌握，以及词汇使用的多样性。建议在日常练习中多关注语音语调的训练，同时扩大词汇量的使用范围，这将有助于进一步提升您的口语表达水平。",
+  "personalized_feedback": "个性化建议生成不完整，建议重新评估以获得详细的学习建议。"
+}
