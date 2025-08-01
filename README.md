@@ -1,3 +1,8 @@
+# Eng-speak
+英语口语评分  
+使用Qwen2.5-Omni运行  
+安装地址  
+https://github.com/QwenLM/Qwen2.5-Omni  
 # Qwen2.5-Omni
 <p align="left">
         <a href="README_CN.md">中文</a> &nbsp｜ &nbsp English&nbsp&nbsp
