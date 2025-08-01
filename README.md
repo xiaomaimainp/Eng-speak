@@ -12,5 +12,5 @@ https://github.com/QwenLM/Qwen2.5-Omni
 英语数据集网站  
 https://www.kaggle.com/datasets/ziya07/college-oral-english-pronunciation-dataset-coepd?resource=download  
 
-还没运行完全，后续继续更新
+还没做完全，后续继续更新
 
