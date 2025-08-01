@@ -1,7 +1,7 @@
 # 本地运行 Qwen2.5-Omni 模型
 
 这个目录包含了在本地运行 Qwen2.5-Omni 模型的代码和说明。
-
+# 要先安装  Qwen2.5-Omni  ##
 ## 目录结构
 
 - `requirements.txt`: Python 依赖项
